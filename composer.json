@@ -1,12 +1,12 @@
 {
-    "name": "justinrainbow/json-schema",
+    "name": "neofonie/json-schema",
     "type": "library",
     "description": "A library to validate a json schema.",
     "keywords": [
         "json",
         "schema"
     ],
-    "homepage": "https://github.com/justinrainbow/json-schema",
+    "homepage": "https://github.com/Neofonie/json-schema",
     "license": "MIT",
     "authors": [
         {
