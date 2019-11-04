@@ -24,6 +24,10 @@
         {
             "name": "Robert Schönthal",
             "email": "seroscho@googlemail.com"
+        },
+        {
+          "name": "Julian Schneider",
+          "email": "julian.schneider@neofonie.de"
         }
     ],
     "require": {
