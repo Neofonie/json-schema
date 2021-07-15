@@ -1,5 +1,8 @@
 # JSON Schema for PHP
 
+## **⚠️ THIS PROJECT IS NOW UNMAINTAINED AND IN READ-ONLY MODE ⚠️**
+
+
 [![Build Status](https://travis-ci.org/justinrainbow/json-schema.svg?branch=master)](https://travis-ci.org/justinrainbow/json-schema)
 [![Latest Stable Version](https://poser.pugx.org/justinrainbow/json-schema/v/stable.png)](https://packagist.org/packages/justinrainbow/json-schema)
 [![Total Downloads](https://poser.pugx.org/justinrainbow/json-schema/downloads.png)](https://packagist.org/packages/justinrainbow/json-schema)
